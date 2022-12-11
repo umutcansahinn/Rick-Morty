@@ -1,12 +1,12 @@
 # Rick-Morty
--mvvm
--clean architecture
--rick and morty api
--retrofit
--hilt
--coin
--compose
--coroutine
+-mvvm <br/>
+-clean architecture <br/>
+-rick and morty api <br/>
+-retrofit <br/>
+-hilt <br/>
+-coin <br/>
+-compose <br/>
+-coroutine <br/>
 
 
 ![1](https://user-images.githubusercontent.com/66000826/206928193-fc4db06f-6841-4cac-b246-a383034fb840.PNG)
